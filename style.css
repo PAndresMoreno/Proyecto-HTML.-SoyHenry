@@ -1,4 +1,16 @@
+.background {
+  background-color: rgb(233, 220, 245);
+}
+
+.titles {
+  color: blueviolet;
+}
+
 img {
   height: 500px;
   width: auto;
+}
+
+p, li {
+  font-size: 18px;
 }
